@@ -1,46 +1,34 @@
-<img alt="frame (3)" src="[https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7](https://res.cloudinary.com/dwu607mkk/image/upload/v1757995927/ec96199b-486d-41bf-b832-8d172c164b86.png)" />
-
-# [Project Name] 
+# [Game Title] 🎮  
 
 ## Basic Details
-### Team Name: [Enter your awesome team name]
+### Team Name: [Your Team Name Here]  
 
 ### Team Members
--  Team Lead: [Name] - [College]
--  Member 2: [Name] - [College]
--  Member 3: [Name] - [College]
+- Team Lead: [Name] - [College]  
+- Member 2: [Name] - [College]  
+- Member 3: [Name] - [College]  
 
-### Project Description
-[Write 2–3 lines about what your project does in the simplest way possible.]
+### Game Description
+[2–3 lines about what your game is. Keep it fun and simple!]  
 
-### The Problem (that may or may not exist 😅)
-[Describe the problem you are solving.]
+### The Problem (Nobody asked for) 😅
+[What "problem" does your game solve? e.g., "People don’t have a way to play Pong with chickens."]  
 
-### The Solution (that the world didn’t ask for 🤷)
-[Describe your quirky, fun, or serious solution.]
+### The Solution (Your Game)
+[How does your game solve it? What’s the quirky/fun twist?]  
 
 ---
 
 ## Technical Details
 
-### Technologies/Components Used
-**Software:**
-- Languages: [List here]
-- Frameworks: [List here]
-- Libraries: [List here]
-- Tools: [List here]
-
-**Hardware (if any):**
-- Components: [List main parts]
-- Specifications: [List key specs]
-- Tools: [List required tools]
+### Technologies Used
+- Engine/Framework: [Unity / Godot / Phaser / Pygame / etc.]  
+- Language(s): [C#, GDScript, JS, Python, etc.]  
+- Tools: [Blender, Photoshop, Figma, etc.]  
 
 ---
 
-### Implementation
-
-**For Software:**
-
-#### Installation
-```bash
-[commands to install dependencies]
+### How to Play 🎲
+1. Clone the repo:
+   ```bash
+   git clone <your-repo-link>
