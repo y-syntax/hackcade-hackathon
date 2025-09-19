@@ -38,13 +38,16 @@
 
 ## Game Documentation
 
-### Screenshots
+### Screenshots (Add at least 3)
 
 ![Screenshot1](Add screenshot 1 link)  
+*Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 link)  
+*Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 link)  
+*Add caption explaining what this shows*
 
 ### Game Demo
 
