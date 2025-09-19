@@ -1,4 +1,6 @@
-# [Game Name] 🎮
+<img width="3188" height="1202" alt="hackcade github banner v2" src="https://github.com/user-attachments/assets/0c4c3dcb-c5f7-46e7-965d-e4571edb09e9" />
+
+# [Game Name] 
 
 ## Basic Details
 
@@ -26,39 +28,28 @@
 ### Implementation
 
 #### Installation / Setup
-[Instructions to set up the game locally]
-
-**Example:**
-1. Download the game from [link]
-2. Extract files
-3. Run executable or open in game engine
-
-#### Running the Game
+[To build and run the game manually from source:]
 
 **Example:**
 ```bash
-./[GameExecutable] 
+   git clone https://github.com/[YourRepo]/[GameName].git
+   cd [GameName]
 ```
 
 ## Game Documentation
 
 ### Screenshots
-*Add at least 3*
 
 ![Screenshot1](Add screenshot 1 link)  
-*Show gameplay, UI, or character design*
 
 ![Screenshot2](Add screenshot 2 link)  
-*Show gameplay mechanics or level design*
 
 ![Screenshot3](Add screenshot 3 link)  
-*Show enemy/obstacle or multiplayer feature if any*
 
 ### Game Demo
 
 #### Gameplay Video
 [Add link to gameplay video]  
-*Showcase core gameplay, controls, levels, and highlights.*
 
 ## Game Download / Deployment
 - **Playable Version / Download:** [Link to executable or archive]
