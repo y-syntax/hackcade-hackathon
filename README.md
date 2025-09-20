@@ -53,18 +53,19 @@ To play locally:
 
 -Snippets of game
 
-![Snippets of game](images.png)  
+![Snippets of game](snippets/game1.png)  
 
-![Snippets of game](images.png)  
+![Snippets of game](snippets/game_upsidedown.png)  
 
-![Snippets of game](images.png)   
+![Snippets of game](snippets/gameover.png)   
 
 ### Game Demo
 
 #### Gameplay Video
-[Add link to gameplay video]  
+[Drive Link](https://drive.google.com/file/d/1_Tnlc8ShMMMZHGWKFe5FSxYdHspzILSD/view?usp=drive_link)
+Video shows gameplay 
 
 ## Game Download / Deployment
-- **Playable Version / Download:** [Link to executable or archive]
+
 - **Deployed Web Version (if any):** [Link to web build]
 
