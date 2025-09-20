@@ -4,12 +4,12 @@
 
 ## Basic Details
 
-**Team Name:** Hackcade Legends  
+**Team Name:** SIUU  
 
 ### Team Members
-- **Team Lead:** [Your Name] - [Your College]
-- **Member 2:** [Teammate Name] - [College]
-- **Member 3:** [Teammate Name] - [College]
+- **Team Lead:** Yadu S Rajeev - T K M College of Engineering, Kollam
+- **Member 2:** Parthiv P - T K M College of Engineering, Kollam
+- **Member 3:** Vaishnav V Bishoy - T K M College of Engineering, Kollam
 
 ## Game Description
 A hilarious endless runner where **Jackie Chan** dashes through our uncle’s shop, dodging cartoon villains, leaping over chaos, and flipping gravity itself! The longer you survive, the faster the madness gets. ⚡  
@@ -42,6 +42,29 @@ Game ends if:
 To play locally:
 
 ```bash
-   git clone https://github.com/[YourRepo]/jackie-chan-gravity-flip.git
+   git clone https://github.com/y-syntax/Jackie-Runner.git
    cd jackie-chan-gravity-flip
    # Open index.html in your browser
+```
+
+## Game Documentation
+
+### Screenshots (Add at least 3)
+
+-Snippets of game
+
+![Snippets of game](images.png)  
+
+![Snippets of game](images.png)  
+
+![Snippets of game](images.png)   
+
+### Game Demo
+
+#### Gameplay Video
+[Add link to gameplay video]  
+
+## Game Download / Deployment
+- **Playable Version / Download:** [Link to executable or archive]
+- **Deployed Web Version (if any):** [Link to web build]
+
