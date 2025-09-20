@@ -58,6 +58,3 @@
 - **Playable Version / Download:** [Link to executable or archive]
 - **Deployed Web Version (if any):** [Link to web build]
 
----
-
-*Submitted for Hackade Game Hackathon*
