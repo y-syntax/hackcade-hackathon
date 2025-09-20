@@ -67,5 +67,5 @@ Video shows gameplay
 
 ## Game Download / Deployment
 
-- **Deployed Web Version (if any):** [Link to web build]
+- **Deployed Web Version (if any):** [Link to web build](https://y-syntax.github.io/Jackie-Runner/)
 
