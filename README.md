@@ -49,7 +49,7 @@ To play locally:
 
 ## Game Documentation
 
-### Screenshots (Add at least 3)
+### Screenshots 
 
 -Snippets of game
 
